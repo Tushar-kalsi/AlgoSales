@@ -1,0 +1,318 @@
+.btn .focus, .btn:focus{box-shadow: none;}
+.heading-out-main h3{width:100%;position: relative;font-size: 40px;margin: 0;color: #000;}
+.heading-out-main h3 span{color: #FCC200;}
+.heading-out-main h3:before {content: "";position: absolute;width: 55px;height: 2px;background: #FCC200;bottom: 0;left: 0;}
+
+
+
+
+.logo-wrapper{padding: 20px 0;}
+.logo-wrapper .top-img-box {width: 160px;}
+.logo-wrapper img {width: 100%;}
+/*top-bar wrapper start*/ 
+.banner-bar{    position: relative;background-image: url(../images/slider-1.png);background-size: 100%;background-repeat: no-repeat;min-height: 435px;background-position: bottom;-webkit-border-radius: 20px 20px 400px 400px;border-radius: 0 0 10% 10%;}
+.banner-bar:before{position: absolute;width: 100%;top: 0;bottom: 128px;left: 0;right: 0;background-color: #33333385;}
+.banner-bar .navbar-brand{width: 80px;padding: 0;}
+.banner-bar .navbar-brand img{width: 100%;}
+.banner-bar .top-list{list-style: none;}
+.banner-bar .top-list li a{text-transform: uppercase;color: #000;font-weight: 700;text-decoration: none;}
+.banner-bar .banner-text-sec{position: absolute;left: 0;right: 0;width: 100%;bottom: 15%;text-align: center;}
+.banner-bar .banner-text-sec h1{margin:0;font-size: 35px;font-family: 'Poppins', sans-serif;font-weight: 800;color: #fff;text-transform: uppercase; }
+.banner-bar .banner-text-sec p{font-size: 22px;font-family: 'Poppins', sans-serif;font-weight: 600;color: #fff;margin: 20px 0;}
+.banner-bar .banner-text-sec .banner-buttn-bar{}
+.banner-bar .banner-text-sec .banner-buttn-bar .btn{margin-top: 20px;text-transform: uppercase;font-size: 20px;font-family: 'Poppins', sans-serif;font-weight: 800;padding: 13px 40px;color: #000;background: #fff;border-radius: 30px;border: 2px solid #dcd9d91f;}
+.banner-bar .banner-text-sec .banner-buttn-bar .btn:hover{background-color: #fff;border-color: #dcd9d91f;color: #95258a;transition:0.7s;}
+.banner-bar .top-bar-img-box img{width: 200px;text-align: center;}
+/*top-bar wrapper end*/ 
+
+
+/*blog-wrapper start*/
+.blog-wrapper{background-color: #f2f2f2;padding: 50px 0;}
+.blog-wrapper .blog-box{margin: 50px 0;position: relative;width: 100%;}
+.blog-wrapper .blog-box .img-blog-box{width: 100%;}
+.blog-wrapper .blog-box .img-blog-box img{width: 100%;max-height: 219px;min-height: 219px;}
+.blog-wrapper .blog-box .sml-box-blog{transition:0.7s;background-color: #fff;text-align: center;padding: 20px 0;width: 90%;margin: 0 auto;position: absolute;bottom: 0;left: 0;right: 0;margin: 0 auto;}
+.blog-wrapper .blog-box .sml-box-blog h2{font-size: 20px;margin: 0;text-transform: capitalize;}
+.blog-wrapper .blog-box .sml-box-blog .btn{display: none;transition:0.7s;color: #063;}
+.blog-wrapper .blog-box:hover .btn{display: block;transition:0.7s;}
+.blog-wrapper .blog-box:hover .sml-box-blog{bottom: 25%;}
+.blog-wrapper  .blog-des-sml-head{position: absolute;top: 25px;left: 0;right: 0;margin: 0 auto;text-align: center;}
+.blog-wrapper  .blog-des-sml-head a{color: #fff;background: #00000073;padding: 3px 10px;border-radius: 5px;text-decoration: none;text-transform: uppercase;font-weight: 700;}
+
+
+
+/*blog-wrapper end*/
+
+
+/*form-us css*/
+.form-page-wrapper{padding: 50px 0;}
+.form-page-wrapper .form-box{margin: 0 auto;width: 100%;background-color: rgba(56, 127, 193, 0.1);padding: 20px 20px;}
+.form-page-wrapper .form-box .btn-box{width: 100%;text-align: center;}
+.form-page-wrapper .form-box .btn-box .btn{padding:8px 40px;background-color: #834b7e;border-color: transparent;text-transform: uppercase;font-family: 'Poppins', sans-serif;font-weight: 500;}
+.form-page-wrapper .form-box .form-control{background:transparent;border-color:#387fc1;border-bottom: 1px solid #387fc1;}
+.form-page-wrapper .form-box .form-control:focus{box-shadow: none;border-color: #834b7e;}
+.form-page-wrapper .form-box .form-page-heading-sec h3{font-size: 30px;font-family: 'Poppins', sans-serif;font-weight:800;color: #834b7e;text-transform: uppercase;margin-bottom: 30px;}
+
+/*form-us css*/
+
+/* printers-solutions-wrap start*/
+.main-printers-solutions {padding: 50px 0 0 0;}
+.main-printers-solutions .main-printers-text-sec {text-align: center;width: 100%;color: #000;}
+.main-printers-solutions .main-printers-text-sec h2 {font-size: 38px;font-weight: 600;}
+.main-printers-solutions .main-printers-text-sec h3 {font-size: 20px;}
+.main-printers-solutions .main-printers-text-sec p {font-size: 18px;font-weight: 500;margin-top: 10px;margin-bottom: 50px;}
+.main-printers-solutions .main-img-sec img {width: 100%;}
+.main-printers-solutions .workplace-solution {background-color: #1f1f1f;padding: 50px 0;color: #fff;}
+.main-printers-solutions .workplace-solution .workplace-cont {width: 100%;text-align: center;}
+.main-printers-solutions .workplace-solution .workplace-cont h2 {font-size: 38px;font-weight: 600;}
+.main-printers-solutions .workplace-solution .workplace-cont h3 {font-size: 22px;font-weight: 700;}
+.main-printers-solutions .workplace-solution .workplace-cont p {font-size: 18px;font-weight: 500;margin-top: 10px;}
+
+/* printers-solutions-wrap end*/
+
+/* workforce-printers start*/
+.workforce-workspace-bg-wrapper {background: linear-gradient(179deg, #5d8ba2d4, #0a0707);padding: 50px 0;position: relative;background-size: cover;height: 300px}
+.workforce-workspace-bg-wrapper  .workspace-sml-bg {position: absolute;background-image: url(../images/Banners_ForWork-Printers.png);    background-repeat: no-repeat;background-position: right top;display: table;height: 273px;overflow: hidden;width: 100%;padding: 0 11%;}
+.workforce-workspace-bg-wrapper  .workspace-sml-bg .workspace-sml-bg-banner-head {display: table-cell;padding-right: 46%;vertical-align: middle;color: #fff;}
+.workforce-workspace-bg-wrapper  .workspace-sml-bg .workspace-sml-bg-banner-head h2 {font-size: 40px;}
+.workforce-workspace-bg-wrapper  .workspace-sml-bg .workspace-sml-bg-banner-head p {font-size: 22px;font-weight: 500;}
+
+
+/* workforce-printers end*/
+
+/* workforce-pro-printers start*/
+.workforce-pro-printers-services-wrap {overflow: hidden;width: 100%;padding: 50px 0;background-color: #e4e4e473;}
+.workforce-pro-printers-services-wrap .print-img-cont img {width: 100%;}
+.workforce-pro-printers-services-wrap .print-cont {margin-top: 50px;}
+.workforce-pro-printers-services-wrap .print-cont h2 {font-size: 26px;font-weight: 700;margin-bottom: 30px;}
+.workforce-pro-printers-services-wrap .print-cont  h5 {font-weight: 700;font-size: 18px;}
+.workforce-pro-printers-services-wrap .print-cont p {font-size: 16px;color: #000;line-height: 26px;}
+.workforce-pro-printers-services-wrap .print-cont ul li {padding: 2px 0;font-size: 16px;color: #000;}
+/* workforce-pro-printers end*/
+
+/* pro-imaging-print start*/
+.pro-imaging-bg-wrapper {background: linear-gradient(179deg, #5d8ba2d4, #0a0707);padding: 50px 0;position: relative;background-size: cover;height: 300px}
+.pro-imaging-bg-wrapper  .workspace-sml-bg {position: absolute;background-image: url(../images/LFP_Category_Header.png);    background-repeat: no-repeat;background-position: right top;display: table;height: 273px;overflow: hidden;width: 100%;padding: 0 11%;}
+.pro-imaging-bg-wrapper .workspace-sml-bg .workspace-sml-bg-banner-head {display: table-cell;padding-right: 46%;vertical-align: middle;color: #fff;}
+.pro-imaging-bg-wrapper .workspace-sml-bg .workspace-sml-bg-banner-head h2 {font-size: 40px;}
+.pro-imaging-bg-wrapper  .workspace-sml-bg .workspace-sml-bg-banner-head p {font-size: 22px;font-weight: 500;}
+
+
+/* pro-imaging-print start end */
+
+/* support-printer start */
+.support-printer-bg-wrapper {background: linear-gradient(179deg, #5d8ba2d4, #0a0707);padding: 50px 0;position: relative;background-size: cover;height: 300px;}
+.support-printer-bg-wrapper .workspace-sml-bg {position: absolute;background-image: url(../images/banner-support-printers.png);    background-repeat: no-repeat;background-position: right top;display: table;height: 273px;overflow: hidden;width: 100%;padding: 0 11%;}
+.support-printer-bg-wrapper .workspace-sml-bg .workspace-sml-bg-banner-head {display: table-cell;padding-right: 46%;vertical-align: middle;color: #fff;}
+.support-printer-bg-wrapper .workspace-sml-bg .workspace-sml-bg-banner-head h2 {font-size: 40px;}
+.support-printer-bg-wrapper .workspace-sml-bg .workspace-sml-bg-banner-head p {font-size: 22px;font-weight: 500;}
+
+/* support-printer end */
+
+/* customer-support start */
+
+.customer-support-bg-wrapper {background: linear-gradient(179deg, #5d8ba2d4, #0a0707);padding: 50px 0;position: relative;background-size: cover;height: 300px;background-image: url(../images/New-weekly-deals-banner.jpg);    background-repeat: no-repeat;background-position: right top;}
+.customer-support-bg-wrapper .workspace-sml-bg {position: absolute;display: table;height: 273px;overflow: hidden;width: 100%;padding: 0 11%;}
+.customer-support-bg-wrapper .workspace-sml-bg .workspace-sml-bg-banner-head {display: table-cell;padding-right: 46%;vertical-align: middle;color: #fff;}
+.customer-support-bg-wrapper .workspace-sml-bg .workspace-sml-bg-banner-head h2 {font-size: 40px;}
+.customer-support-bg-wrapper .workspace-sml-bg .workspace-sml-bg-banner-head p {font-size: 22px;font-weight: 500;}
+
+.printer-pane-section  .card-header {padding: 0;}
+.printer-pane-section .card  {margin: 10px 0;}
+.printer-pane-section .card a {display: block;padding: .75rem 1.25rem;color: #fff;font-size: 20px;font-weight: 600;background-color: #FCC200;}
+
+.printer-pane-section .card .collapsed {
+    background: #f7f7f7;
+    color: #000;
+}
+
+.printer-pane-section  .card-header [data-toggle=collapse].collapsed::after {
+   content: "";
+    background-image: url(../images/down-arrow.png);
+    background-size: 20px;
+    background-repeat: no-repeat;
+    margin-top: 0;
+    position: absolute;
+    right: 15px;
+    top: 20px;
+    height: 100%;
+    width: 32px;
+}
+.printer-pane-section  .card-header [data-toggle=collapse]:after {
+	   content: "";
+    background-image: url(../images/arrow-up.png);
+    background-size: 20px;
+    background-repeat: no-repeat;
+    margin-top: 0;
+    position: absolute;
+    right: 15px;
+    top: 20px;
+    height: 100%;
+    width: 32px;
+}
+/* customer-support end */
+
+/* select-printer start here*/
+.select-printer-banner-wrap {background: linear-gradient(rgb(0 0 0 / 64%), rgb(0 0 0 / 64%)), url(../images/new/banner-home.jpg);background-position: center;background-size: cover;padding: 50px 0;position: relative;width: 100%;}
+.select-printer-banner-wrap .select-printer-img-section img {width: 100%;min-height: 250px;max-height: 250px;}
+.select-printer-banner-wrap .select-printer-cont-sec {margin-top: 10px;}
+.select-printer-head-section h3 {margin-bottom: 20px;color: #fff;font-size: 30px;font-weight: 700;border-bottom: 5px solid #007dbd;}
+.select-printer-banner-wrap .select-printer-cont-sec p {color: #fff;font-size: 18px;line-height: 26px;}
+.select-printer-banner-wrap .select-printer-cont-sec .btn-print {margin-top: 40px;display: none;}
+.select-printer-banner-wrap .select-printer-cont-sec .btn-print a {color: #FFFFFF;background-color: #007dbd;text-decoration: none;padding: 12px 40px;text-transform: uppercase;border-radius: 25px;font-weight: 700;text-align: center;font-size: 18px;letter-spacing: 1px;}
+.select-printer-banner-wrap .select-down-btn {text-align: center;margin: 0 auto;width: 24%;}
+.select-printer-banner-wrap .select-down-btn a {
+  text-transform: uppercase;
+    background-color: #007dbd;
+    padding: 10px 56px;
+    color: #fff;
+    display: block;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 400;
+    border-radius: 4px;
+}
+.select-printer-banner-wrap .select-down-btn a:hover {transition:0.9s;background-color: #005682;}
+
+.select-printer-setu-issue-wrap {padding: 50px 0;background-color: #F2F2F2;}
+.select-printer-setu-issue-wrap .setu-print-img img {width: 100%;margin-top: 70px;}
+.select-printer-setu-issue-wrap  .setu-print-cont .select-printer-head-section {margin-top: 0;}
+.select-printer-setu-issue-wrap  .setu-print-cont .select-printer-head-section h3 {color: #000;margin-top: 0;}
+.select-printer-setu-issue-wrap  .setu-print-cont p {color: #5d5d5d;font-size: 18px;line-height: 26px;}
+.select-printer-setu-issue-wrap  .setu-print-cont ol li {color: #5d5d5d;font-size: 16px;padding: 2px 0;}
+
+.select-printer-high-skilled-wrap {padding: 50px 0;background-color: #007dbd;}
+.select-printer-high-skilled-wrap .high-skilled-cont {text-align: center;color: #fff;}
+.select-printer-high-skilled-wrap .high-skilled-cont h3 {font-weight: 700;text-transform: capitalize;font-size: 26px;}
+.select-printer-high-skilled-wrap .high-skilled-cont h3 .fa {padding-right: 10px;}
+
+.select-printer-high-skilled-wrap .update-driv-btn {width: 20%;margin: 30px auto auto auto;text-align: center;}
+.select-printer-high-skilled-wrap .update-driv-btn a {padding:12px 30px;text-decoration: none;font-size: 16px;display: block;border-radius: 5px;background-color: #fff;color: #007bff;font-weight: bold;text-transform: uppercase;}
+
+
+.select-printer-Resolve-Printer-Offline-wrap {padding: 50px 0;}
+.select-printer-Resolve-Printer-Offline-wrap .Resolve-Printer-Offline img {width: 100%;margin-top: 50px;}
+.select-printer-Resolve-Printer-Offline-wrap .Resolve-Printer-Offline-cont .select-printer-head-section h3{color: #000;padding-bottom: 5px;}
+.select-printer-Resolve-Printer-Offline-wrap .Resolve-Printer-Offline-cont p {color: #5d5d5d;font-size: 18px;line-height: 26px;}
+.select-printer-Resolve-Printer-Offline-wrap .Resolve-Printer-Offline-cont ol li {color: #5d5d5d;font-size: 16px;padding: 2px 0;}
+
+.select-resolve-downlo-wrap {padding: 50px 0 300px 0;overflow: hidden;width: 100%;}
+.select-resolve-downlo .select-resolve-downlo-btm-setup {text-align: center;margin-top: 30px;}
+.select-resolve-downlo-wrap .select-resolve-downlo-btm-setup{width: 100%;overflow: hidden;}
+.select-resolve-downlo-wrap .select-resolve-downlo-btm-setup h3{color: #007dbd;font-size: 34px;font-weight: 700;border-bottom: 5px solid #007dbd;width: 70%;margin: auto auto 40px;}
+.select-resolve-downlo-wrap .btn-bar {width: 36%;margin: 0 auto;text-align: center;}
+.select-resolve-downlo-wrap .btn-bar a {background-color: #007dbd;text-align: center;color: #fff;padding: 12px 30px;font-weight: 700;font-size: 16px;text-decoration: none;display: block;border-radius: 4px;}
+
+
+
+
+.fix-wifi-issue-disa-wrap {padding: 50px 0;background-color: #007dbd;margin-bottom: 300px;}
+.fix-wifi-issue-disa-wrap .select-printer-head-section h3 {border-color: #fff;padding-bottom: 10px;}
+.fix-wifi-issue-disa-wrap .fix-wifi-issue-cont {color: #fff;}
+
+/* select-printer end here*/
+
+
+/*footer-start here*/
+.footer-wrapper{background-color: #0d0d0dc2;padding: 20px 0;position: relative;}
+.footer-wrapper p{color: #fff;margin: 0;}
+.footer-wrapper .footer-sec-right-text{margin-top: 15px;}
+/*footer-end here*/
+
+.btm-arrrow-bar{position: fixed;bottom: 3%;right: 49px;z-index: 99;}
+.message-float-toggle{padding: 8px;height: 60px;width: 60px;border-radius: 50%;background-color: #1294f7;box-shadow: 0px 0px 8px 2px rgb(0 0 0 / 31%);display: flex;justify-content: center;align-items: center;color: white;font-size: 26px;margin: 7px 0;cursor: pointer;}   
+.message-float-toggle img{width: 100%;}    
+
+
+/* contact-form-wrapper start here */
+.contact-form-wrapper {padding: 50px 0 300px 0;background-color: #eaeaeaa1;}
+.contact-form-wrapper .section-form-head {width: 100%;}
+.contact-form-wrapper .section-form-head h2 {color: #228DBA;font-size: 28px;font-weight: 700;text-align: center;}
+.contact-form-wrapper .form-box {width: 50%;margin: 30px auto auto auto;}
+.contact-form-wrapper .form-box .form-control{min-height: 50px;font-size: 16px;text-transform: capitalize;border: 1px solid #000;font-weight: 600;color: #75777d;}
+.contact-form-wrapper .form-box .form-control:focus {box-shadow: none;}
+.contact-form-wrapper .form-box .btn {color: #fff;text-align: center;margin: 0 auto;display: block;padding: 12px 70px;text-transform: uppercase;font-weight: 700;letter-spacing: 1px;background-color: #228dba;border: none;font-size: 18px;}
+.contact-form-wrapper .form-box .btn:hover {background-color: #0366d6;color: #fff;transition: 0.9s;}
+
+
+/* contact-form-wrapper end here */
+
+@media (min-device-width: 768px) and (max-device-width: 991px) {
+
+  .select-printer-banner-wrap .select-down-btn {width: 40%;margin-top: 20px;}
+  .select-printer-high-skilled-wrap .high-skilled-cont h3 {font-size: 20px;}
+  .select-printer-setu-issue-wrap {padding: 20px 0;}
+  .select-printer-Resolve-Printer-Offline-wrap {padding: 20px 0;}
+  .select-resolve-downlo-wrap {padding: 0 0 20px 0;}
+  .select-resolve-downlo-wrap .btn-bar {width: 70%;}
+
+
+  .contact-form-wrapper .form-box{width: 80%;}
+  .select-printer-setu-issue-wrap .setu-print-img img{margin-top: 0;}
+}
+
+@media screen and (max-width: 768px){
+
+.top-bar-wrapper{width: 100%;}
+.banner-bar{min-height: 250px;background-size: cover;}
+.banner-bar:before{bottom: 0;}
+.banner-bar .banner-text-sec{bottom: 20%;}
+.banner-bar .banner-text-sec h1{font-size: 28px;}
+.banner-bar .banner-text-sec p{font-size: 14px;}
+
+.inner-blog-banner-head{top: 85px;}
+.inner-blog-banner-head h2{font-size: 28px;}
+.inner-blog-banner-list{top: 264px;}
+.inner-blog-wrappper .inner-left-box h2{font-size: 18px;margin: 10px 0 10px 0;}
+.inner-blog-wrappper .inner-left-box p{font-size: 14px;}
+.inner-blog-wrappper h3 {font-size: 20px;margin: 0;}
+
+.next-page-link-wrap .left-link-sec{float: none;text-align: center;width: 100%;}
+.next-page-link-wrap .right-link-sec{float: none;text-align: center;width: 100%;}
+
+.blog-solution-wrapper .media{display: block;text-align: center;}
+.blog-solution-wrapper .solution-box{min-height: 100%;max-height: 100%;margin-bottom: 20px;}
+.blog-solution-wrapper .blog-solutio-sec-img {margin: 0 auto;width: 100px}
+.blog-solution-wrapper .solution-box .media-body{text-align: justify;}
+.blog-solution-wrapper .solution-box .media-body h5 {word-break: break-all;}
+
+.btm-arrrow-bar{bottom: 0;left: 0;right: 0;text-align: center;z-index: 99999;}
+.message-float-toggle img{width: 40px;}
+.message-float-toggle{width: 100%;background-color: #1294f782;border-radius: 0;margin: 0;}
+
+/* select-printer start here*/
+.select-printer-banner-wrap {padding: 20px 0;}
+.select-printer-head-section h3 {font-size: 22px;}
+.select-printer-banner-wrap .select-printer-cont-sec p {font-size: 15px;text-align: justify;line-height: 24px;}
+.select-printer-banner-wrap .select-down-btn {width: 75%;margin-top: 15px;}
+.select-printer-banner-wrap .select-down-btn a {font-size: 14px;}
+
+.select-printer-setu-issue-wrap {padding: 20px 0;}
+.select-printer-setu-issue-wrap .setu-print-cont p {font-size: 15px;line-height: 24px;}
+.select-printer-setu-issue-wrap .setu-print-cont ol {padding: 0 0 0 15px;}
+.select-printer-high-skilled-wrap {padding: 20px 0;}
+.select-printer-high-skilled-wrap .high-skilled-cont h3 {font-size: 22px;}
+.select-printer-Resolve-Printer-Offline-wrap {padding: 20px 0;}
+.select-printer-Resolve-Printer-Offline-wrap .Resolve-Printer-Offline-cont ol li {font-size: 15px;}
+.select-printer-Resolve-Printer-Offline-wrap .Resolve-Printer-Offline-cont p {font-size: 15px;}
+
+.select-printer-setu-issue-wrap .setu-print-img img {margin-top: 0;}
+.select-printer-Resolve-Printer-Offline-wrap .Resolve-Printer-Offline img {margin-top: 0;}
+
+.select-resolve-downlo-wrap {padding: 0;}
+.select-resolve-downlo-wrap .select-resolve-downlo-btm-setup h3{font-size: 24px;width: 100%;text-align: center;margin-bottom: 10px;}
+.select-resolve-downlo-wrap .btn-bar {width: 100%;margin: 10px 0;}
+.select-printer-high-skilled-wrap .update-driv-btn {width: 60%;}
+.select-printer-high-skilled-wrap .update-driv-btn a {font-size: 14px;}
+
+
+/* select-printer end here*/
+
+
+.contact-form-wrapper {padding: 20px 0;}
+.contact-form-wrapper .section-form-head h2 {font-size: 18px;}
+.contact-form-wrapper .form-box {width: 100%;}
+
+/*  printers-solutions-wrap end*/
+
+}
